@@ -47,11 +47,6 @@ Full code from this sample:
 
 Feel free to get in touch.
 
-    Website:    http://www.azoft.com
-    Twitter:    @azoft
-    LinkedIn:   https://www.linkedin.com/company/azoft
-    Facebook:   https://www.facebook.com/azoft.company
-    Email:      android-mobile@azoft.com
 
 #### License ####
 
